@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "993050440829",
+    "firebase_url": "https://readex-4d29c.firebaseio.com",
+    "project_id": "readex-4d29c",
+    "storage_bucket": "readex-4d29c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993050440829:android:7a31e94834dd3c921b6d14",
+        "android_client_info": {
+          "package_name": "com.example.readex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993050440829-aci9ad3d6ci3qffq85fnng7hlr1fefvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByJT3oafCkydXUCm8bXoJfDUHAg9-mowg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993050440829-aci9ad3d6ci3qffq85fnng7hlr1fefvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
