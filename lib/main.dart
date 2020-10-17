@@ -77,8 +77,8 @@ class _MyHomePageState extends State<MyHomePage> {
           Center(
             child: FlatButton.icon(
               icon: Icon(
-                Icons.photo_camera,
-                size: 100,
+                Icons.picture_in_picture,
+                size: 50,
               ),
               label: Text(''),
               textColor: Theme.of(context).primaryColor,
@@ -94,7 +94,7 @@ class _MyHomePageState extends State<MyHomePage> {
               : Expanded(
                   child: SingleChildScrollView(
                     child: Padding(
-                      padding: const EdgeInsets.all(15.0),
+                      padding: const EdgeInsets.all(10.0),
                       child: Text(
                         text,
                       ),
